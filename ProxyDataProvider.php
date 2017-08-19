@@ -33,7 +33,7 @@ use yii\db\ActiveRecord;
 
 
 /**
- * Class ProxyCustomer
+ * Class ProxyDataProvider
  * @package vistarsvo\proxydataprivider
  */
 class ProxyDataProvider extends Component
