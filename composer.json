@@ -10,10 +10,6 @@
             "email": "vistar.svo@gmail.com"
         }
     ],
-    "require": {
-        "yiisoft/yii2": "2.*",
-        "vistarsvo/proxydataprovider": "1.*-dev"
-    },
     "autoload": {
         "psr-4": { "vistarsvo\\proxydataprovider\\": "" }
     }
