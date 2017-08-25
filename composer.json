@@ -1,7 +1,7 @@
 {
     "name": "vistarsvo/proxydataprovider",
     "description": "Yii2 Proxy Data Provider",
-    "keywords": ["yii", "yii2", "proxy"],
+    "keywords": ["yii2", "proxy", "data provider"],
     "type": "yii2-component",
     "license": "MIT",
     "authors": [
@@ -10,6 +10,9 @@
             "email": "vistar.svo@gmail.com"
         }
     ],
+    "require": {
+        "vistarsvo/proxymanager": "1.0.*"
+    },
     "autoload": {
         "psr-4": { "vistarsvo\\proxydataprovider\\": "" }
     }
